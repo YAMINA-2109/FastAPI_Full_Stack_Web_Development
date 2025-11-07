@@ -4,3 +4,7 @@ __pycache__/
 node_modules/
 .DS_Store
 .env
+venv/
+test_db.db
+testtype.py/
+1-fastapi_revision/backend/testtype.py
