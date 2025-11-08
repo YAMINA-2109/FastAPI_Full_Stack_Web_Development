@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from core.config import settings
 from db.session import engine
+import db.base
 from db.base_class import Base
 
 
