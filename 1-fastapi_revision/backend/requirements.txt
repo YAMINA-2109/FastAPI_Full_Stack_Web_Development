@@ -8,3 +8,8 @@ alembic
 pydantic[email]
 passlib[bcrypt]==1.7.4
 bcrypt==4.0.1
+pytest==9.0.0
+httpx==0.28.1
+python-jose==3.5.0
+PyJWT
+python-multipart==0.0.20
